@@ -16,4 +16,4 @@ Para leerlo tenés que descargarlo y después modificar el llamado según donde 
 merv = pd.read_excel("/Users/TuUsuario/Downloads/merval_actualizado.xlsx",
                      index_col=0)
                     
-Si tenés dudas podés preguntarme! @camilocr3          
+        
